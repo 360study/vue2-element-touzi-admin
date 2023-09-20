@@ -1,3 +1,5 @@
+# 使用yarn安装，yarn serve可运行
+
 <b>xxx金融后台管理系统</b>
 
 **A magical vue element touzi admin.**
